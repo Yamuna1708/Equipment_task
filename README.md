@@ -152,6 +152,3 @@ PORT=5000
    - Modern browsers with ES6+ support (Chrome, Firefox, Edge, Safari latest versions)
    - No support for Internet Explorer
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
